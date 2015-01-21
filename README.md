@@ -1,5 +1,6 @@
 # funlearn
-Functional programming examples
+Functional programming by example
+
 A simple example to give a novice a quick glimpse of functional programming style. This consists of a tiny car race simulation written in C and Standard ML, so that the reader can compare the styles. Expertise in C/C++ is expected from the reader.
 
 Here are the details of the car race simulation:
