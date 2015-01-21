@@ -1,6 +1,6 @@
 # funlearn
 Functional programming examples
-A simple example go give a novice a quick glimpse of functional programming style. This consists of a tiny car race simulation written in C and Standard ML, so that the reader can compare the styles.
+A simple example to give a novice a quick glimpse of functional programming style. This consists of a tiny car race simulation written in C and Standard ML, so that the reader can compare the styles. Expertise in C/C++ is expected from the reader.
 
 Here are the details of the car race simulation:
 Three cars are competing in our “Speed Circuit” race. One Jaguar, one Porsche and one Audi. The whole thing is very deterministic: cars start running with a uniform acceleration until they reach their max speed. Then on, they just travel at constant speed till the end of the track. Here are the acceleration and max speed values of the cars:
