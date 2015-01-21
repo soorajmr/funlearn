@@ -15,6 +15,9 @@ Three cars are competing in our “Speed Circuit” race. One Jaguar, one Porsch
 See c directory for the C language implementation. This is written in a modular, "object oriented" style. The functional version written in Standard ML is in the sml directory. The purpose of these examples is to show the differences in basic constructs and introduce map & reduce, function composition, closures, etc. to the reader, rather than showing the best way to design functional programs.
 
 
+This was inspired by https://codewords.hackerschool.com/issues/one/an-introduction-to-functional-programming 
+
+
 
 
 
